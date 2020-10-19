@@ -27,7 +27,3 @@ By default it will be running on port 3000, so you can test that it works via:
 ```bash
 curl localhost:3000/todos
 ```
-
-## Frontend
-
-To test your API, you can use the frontend inside the `frontend` directory. Check the README inside for details on how to run
